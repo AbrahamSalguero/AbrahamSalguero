@@ -16,8 +16,7 @@
 - 📫 How to reach me **linkedin profile**
 
 <h3 align="center">:wave:Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abraham-salguero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abraham-salguero/" height="30" width="40" /></a>
+<p align="center"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/abraham-salguero?trk=profile-badge">Abraham Salguero Alvarez</a>
 </p>
 
 <h3 align="center">:boom:Languages and Tools:</h3>
