@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **linkedin profile**
 
-<h3 align="center">:wave:Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/abraham-salguero?trk=profile-badge">Abraham Salguero Alvarez</a>
 </p>
 
