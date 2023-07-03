@@ -1,4 +1,4 @@
-![banner_Github](https://user-images.githubusercontent.com/96110567/234068937-35f748ff-f736-4c37-9051-5b29a1a0e92d.png)
+
 
 ![bannergothub](https://github.com/AbrahamSalguero/AbrahamSalguero/assets/96110567/d0faef15-895c-4802-80f4-70927864dfe9)
 
