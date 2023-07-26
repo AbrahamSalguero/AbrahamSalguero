@@ -1,8 +1,6 @@
 ![bannergothub](https://github.com/AbrahamSalguero/AbrahamSalguero/assets/96110567/3512b46a-86e6-4ec7-842d-cb624f6ae9c1)
 
 
-https://github.com/AbrahamSalguero/AbrahamSalguero/assets/96110567/d6de487b-4d21-4977-acf9-724f012d4d8d
-
 
 
 <h3>:point_right:Here you won't see a "passionate":man_shrugging: programmer but you will find someone like you, a restless person eager to learn something he likes. :relaxed: </h3>
