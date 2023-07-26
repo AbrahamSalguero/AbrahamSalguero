@@ -3,13 +3,13 @@
 
 <h3>:point_right:Here you won't see a "passionate":man_shrugging: programmer but you will find someone like you, a restless person eager to learn something he likes. :relaxed: </h3>
 
-- 🔭 I’m currently working on **Drupal 9**
+- 🔭 I’m currently working on **Drupal 9 & Manual Testing**
 
-- 🌱 I’m currently learning **Drupal 9, SASS, JS, PHP**
+- 🌱 I’m currently learning **Drupal 9, SASS, JS, HTML, CSS, JIRA, AGILE, SCRUM**
 
-- 👯 I’m looking to collaborate on **Development front-end proyects**
+- 👯 I’m looking to collaborate on **Development front-end proyects & Manual Testing**
 
-- 🤝 I’m looking for help with **Development front-end proyects**
+- 🤝 I’m looking for help with **Development front-end proyects & Manual Testing**
 
 - 💬 Ask me about **Anything**
 
