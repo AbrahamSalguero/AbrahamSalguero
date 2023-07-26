@@ -1,5 +1,4 @@
-![Rosa Pastel Blanco Salones Vuelta al Trabajo Apaisado Banner](https://github.com/AbrahamSalguero/AbrahamSalguero/assets/96110567/ba1a93a1-6a35-4420-8aeb-21445f60996a)
-
+![Banner_Portada_GitHub](https://github.com/AbrahamSalguero/AbrahamSalguero/assets/96110567/21449872-b351-42f5-b279-5d5f141715c1)
 
 <h3>:point_right:Here you won't see a "passionate":man_shrugging: programmer but you will find someone like you, a restless person eager to learn something he likes. :relaxed: </h3>
 
