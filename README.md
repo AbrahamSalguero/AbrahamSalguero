@@ -18,7 +18,7 @@
 <p align="center"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/abraham-salguero?trk=profile-badge">Abraham Salguero Alvarez</a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbrahamSalguero)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbrahamSalguero&theme=dark)](https://git.io/streak-stats)
 
 
 
